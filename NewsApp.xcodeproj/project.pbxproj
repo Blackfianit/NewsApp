@@ -13,6 +13,7 @@
 		89DC809B27CBD101001B2305 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89DC809A27CBD101001B2305 /* Assets.xcassets */; };
 		89DC809E27CBD101001B2305 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89DC809C27CBD101001B2305 /* LaunchScreen.storyboard */; };
 		89DC80A627CBD1AF001B2305 /* NewsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89DC80A527CBD1AF001B2305 /* NewsListViewController.swift */; };
+		89DC80A827CBD323001B2305 /* NewsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89DC80A727CBD323001B2305 /* NewsItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		89DC809D27CBD101001B2305 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89DC809F27CBD101001B2305 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89DC80A527CBD1AF001B2305 /* NewsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListViewController.swift; sourceTree = "<group>"; };
+		89DC80A727CBD323001B2305 /* NewsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				89DC809127CBD100001B2305 /* AppDelegate.swift */,
 				89DC809327CBD100001B2305 /* SceneDelegate.swift */,
 				89DC809727CBD100001B2305 /* Main.storyboard */,
+				89DC80A727CBD323001B2305 /* NewsItem.swift */,
 				89DC80A527CBD1AF001B2305 /* NewsListViewController.swift */,
 				89DC809A27CBD101001B2305 /* Assets.xcassets */,
 				89DC809C27CBD101001B2305 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89DC80A627CBD1AF001B2305 /* NewsListViewController.swift in Sources */,
+				89DC80A827CBD323001B2305 /* NewsItem.swift in Sources */,
 				89DC809227CBD100001B2305 /* AppDelegate.swift in Sources */,
 				89DC809427CBD100001B2305 /* SceneDelegate.swift in Sources */,
 			);
