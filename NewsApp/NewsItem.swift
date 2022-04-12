@@ -16,10 +16,9 @@ struct NewsItem {
         [
             NewsItem(
                 title: "One", author: "", description: "", image: ""
-            ),
-            NewsItem(
-                title: "One", author: "", description: "", image: ""
             )
         ]
     }
 }
+
+
