@@ -20,6 +20,7 @@ struct NewsItem {
             NewsItem(
                 title: "One", author: "", description: "", image: ""
             )
+            asfj
         ]
     }
 }
